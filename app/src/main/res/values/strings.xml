@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="action_settings">Settings</string>
+    <string name="crimeTitle">CRIME TITLE</string>
+    <string name="crimeDate">CRIME DATE</string>
+    <string name="addCrime">ADD </string>
+    <string name="cancelCrime">CANCEL</string>
+    <string name="title_activity_crime_list_fragment">CrimeListFragment</string>
+</resources>
